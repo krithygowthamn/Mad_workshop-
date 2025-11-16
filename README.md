@@ -293,4 +293,4 @@ public class MainActivity2 extends AppCompatActivity {
 
 ## RESULT
 Thus a Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
-# Mad_workshop-
+
